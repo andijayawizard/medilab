@@ -62,6 +62,9 @@
         </div>
 
       </div>
+      <br />
+      <NuxtLink to="/services" class="appointment-btn scrollto"><span class="d-none d-md-inline">View All</span>
+        Services</NuxtLink>
 
     </div>
   </section><!-- End Services Section -->

@@ -23,4 +23,6 @@ logs
 .env.*
 !.env.example
 
-/public/assets
+/public/assets/
+
+.vercel

@@ -15,7 +15,7 @@
               Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
             </p>
             <div class="text-center">
-              <a href="#" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
+              <NuxtLink to="/about-us" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></NuxtLink>
             </div>
           </div>
         </div>
