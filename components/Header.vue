@@ -9,7 +9,7 @@
         <NuxtLink to="/">Medilab</NuxtLink>
       </h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <NuxtLink to="/" class="logo me-auto"><img src="/assets/img/favicon.png" alt="" class="img-fluid"></NuxtLink>
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
